@@ -1,0 +1,15 @@
+So what is TDD?
+Test Driven Development
+TDD Cycle
+1. write a fail test(red state)
+2. make a pass test(green state)
+3. refactor code(blue state)
+
+// let create the fail test
+1. I need to add dependency
+my example is bank account
+so bank account behaviour are
+deposit and withdraw
+
+// the last one is refactor
+code format
